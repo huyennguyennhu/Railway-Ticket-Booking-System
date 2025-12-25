@@ -14,7 +14,6 @@ The project focuses on:
 > ⚠️ This repository **does not include application development or user interface implementation**.  
 > Its primary focus is **system analysis and database design**.
 
----
 
 ## 🎯 Project Objectives
 - Analyze real-world business processes of a railway ticket booking system
@@ -23,10 +22,11 @@ The project focuses on:
 - Design the database at both logical and physical levels
 - Write SQL queries to support system management, operations, and business reporting
 
----
 
 ## 📂 Repository Structure
 
+
+---
 
 # 🚆 Hệ thống Đặt Vé Tàu - Phân tích & Thiết kế Cơ sở Dữ liệu
 

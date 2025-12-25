@@ -1,5 +1,4 @@
 # Railway Ticket Booking System - Database Analysis & Design
-
 ## 📌 Overview
 This repository presents the **complete process of business model analysis and database design**
 for a **Railway Ticket Booking System**, developed for academic purposes and as part of my **personal portfolio**.
@@ -28,7 +27,7 @@ The project focuses on:
 
 ---
 
-# 🚆 Hệ thống Đặt Vé Tàu - Phân tích & Thiết kế Cơ sở Dữ liệu
+#  Hệ thống Đặt Vé Tàu - Phân tích & Thiết kế Cơ sở Dữ liệu
 
 ## 📌 Tổng quan
 Repository này trình bày **toàn bộ quá trình phân tích mô hình kinh doanh và thiết kế cơ sở dữ liệu**
